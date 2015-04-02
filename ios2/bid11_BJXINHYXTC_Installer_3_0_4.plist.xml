@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yingcaida.account</string>
+				<string>com.yingcaida.accountd</string>
 				<key>bundle-version</key>
 				<string>3.0.4</string>
 				<key>kind</key>
