@@ -38,10 +38,8 @@
 				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>xyzs</string>
-				<key>title</key>
-                <string>aaaaaaaaaaaaaa</string>
+			    <key>title</key>
+                <string>玛雅账务</string>
 			</dict>
 		</dict>
 	</array>
