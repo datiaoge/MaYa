@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.xyzsq.com/ios/3_0_4/bid11_BJXINHYXTC_Installer_3_0_4.ipa</string>
+					<string>http://ilottery.rytest.com/ios2/ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.bigdipper.laser</string>
+				<string>com.yingcaida.account</string>
 				<key>bundle-version</key>
 				<string>3.0.4</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>xyzs</string>
 				<key>title</key>
-                <string>XY苹果助手--免越狱, 免账号, 百万正版应用极速免费装</string>
+                <string>aaaaaaaaaaaaaa</string>
 			</dict>
 		</dict>
 	</array>
